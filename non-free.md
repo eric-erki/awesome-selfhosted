@@ -17,6 +17,7 @@
 ## Communication Systems
 
 - [Dialog](https://dlg.im) `⊘ Proprietary` - Handy and feature-rich multi-device solution with native mobile clients, SIP integration, chatbots, 3rd-party integrations. It brings communication efficiency without sacrificing privacy. Works in closed circuit, encrypts push notifications. ([Demo](https://dlg.im/en/download)) `Scala/Go`
+- [Groupboard](https://www.groupboard.com) `⊘ Proprietary` - Online whiteboard, audio/video conferencing, screen sharing, shared code editing and optional session recording/playback.
 - [HipChat](https://www.atlassian.com/software/hipchat) `⊘ Proprietary` - A team chat solution with 1:1 chat audio and video, third party integration and more. `PHP/Python`
 - [PrivMX WebMail](https://privmx.com) - an alternative private mail system - web-based, end-to-end encrypted by design, self-hosted, decentralized, uses independent PKI. Easy to install and administrate, freeware, open-source. `PHP`
   
@@ -53,6 +54,7 @@
 
 ## Media Streaming
 
+- [Channels DVR Server](https://getchannels.com/dvr-server/) `⊘ Proprietary` - Flexible server providing a whole home self hosted DVR experience for [Channels](https://getchannels.com).
 - [Emby](https://emby.media/) `⊘ Proprietary` - Home media server supporting both DLNA and DIAL (Chromecast) devices out-of-the-box. ([Partial source Code](https://github.com/MediaBrowser/Emby)) `Proprietary with some GPL-2.0` `C#`
 - [Plex](https://plex.tv/) `⊘ Proprietary` - Plex is a centralized home media playback system with a powerful central server.
 - [Subsonic](http://subsonic.org/) - Web-based media streamer and jukebox. ([Demo](http://demo.subsonic.org/login.view?user=guest4&password=guest))
@@ -70,6 +72,7 @@
 - [ArtVenue](http://codecanyon.net/item/artvenue-image-sharing-community-script/5771542) `⊘ Proprietary` - Start your own photography community website, platform based on the Laravel PHP Framework. ([Demo](http://codecanyon.net/item/artvenue-image-sharing-community-script/full_screen_preview/5771542)) `PHP`
 - [Chevereto](https://chevereto.com/) `⊘ Proprietary` - A powerful and fast image hosting script that allows you to create your very own full featured image hosting website in just minutes. ([Demo](http://demo.chevereto.com/)) `PHP`
 - [Koken](http://koken.me/) `⊘ Proprietary` - Content management and web site publishing for photographers. `PHP`
+- [PhotoStructure](https://photostructure.com/) `⊘ Proprietary` - All your family's photos and videos automatically organized into a fun and beautiful website. Runs via Docker, NodeJS, or native desktop installers. `NodeJS`
 - [Single File PHP Gallery](http://sye.dk/sfpg/) `⊘ Proprietary` - is a web gallery in one single PHP file. `PHP` 
 
   
